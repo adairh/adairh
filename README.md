@@ -1,7 +1,8 @@
 ### Hello there!
 🔭 I’m a student of Ho Chi Minh city University of Technology and Education!</br>
+🎮 I'm a Minecraft and Overwatch player</br>
 🌱 I’m currently learning Java, C/C++, Python and other Website's languages. My favorite is Java!</br>
-⚡ I love Lana Del Rey and Minecraft!
+⚡ I love Lana Del Rey!
 <br>
 ### Stats
 <div align="center">
