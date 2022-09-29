@@ -3,6 +3,9 @@
 🎮 I'm a Minecraft and Overwatch player!</br>
 🌱 I’m currently learning Java, C/C++, Python and other Website's languages. My favorite is Java!</br>
 ⚡ I love Lana Del Rey!
+🌐 Connect me via: 
+- https://www.facebook.com/jii.152/
+- instagram.com/jii.152
 <br>
 ### Stats
 <div align="center">
