@@ -23,16 +23,15 @@
 
   <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adairh&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adairh&show_icons=true&theme=dark&langs_count=5"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adairh&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adairh&show_icons=true&langs_count=5"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adairh&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adairh&show_icons=true&langs_count=5" />
 </picture>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adairh&layout=compact&langs_count=7&theme=dark">
       
 </div>
