@@ -5,7 +5,7 @@
 ⚡ I love Lana Del Rey!<br>
 🌐 Connect me via: 
 - https://www.facebook.com/jii.152/
-- https://www.instagram.com/jii.152/
+- [https://www.instagram.com/jii.152/](https://www.instagram.com/phd.sjihh/)
 <br>
 ### Stats
 <div align="center">
